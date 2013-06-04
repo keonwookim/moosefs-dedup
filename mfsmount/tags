@@ -1,0 +1,722 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ANSSIZE	masterproxy.c	13;"	d	file:
+CHECKNAME	mfstools.c	2390;"	d	file:
+CLOSEDELAYTICKS	readdata.c	44;"	d	file:
+CSDB_HASH	csdb.c	26;"	d	file:
+CSDB_HASHSIZE	csdb.c	25;"	d	file:
+CSMSECTIMEOUT	cscomm.c	35;"	d	file:
+DEFAULT_INPUT_BUFFSIZE	mastercomm.c	95;"	d	file:
+DEFAULT_OPTIONS	main.c	68;"	d	file:
+DEFAULT_OPTIONS	main.c	70;"	d	file:
+DEFAULT_OUTPUT_BUFFSIZE	mastercomm.c	94;"	d	file:
+EDQUOT	mfs_fuse.c	225;"	d	file:
+EDQUOT	writedata.c	51;"	d	file:
+HASH_BUCKETS	chunkloccache.c	31;"	d	file:
+HASH_BUCKETS	symlinkcache.c	31;"	d	file:
+HASH_BUCKET_SIZE	chunkloccache.c	30;"	d	file:
+HASH_BUCKET_SIZE	symlinkcache.c	30;"	d	file:
+HASH_FUNCTIONS	chunkloccache.c	29;"	d	file:
+HASH_FUNCTIONS	symlinkcache.c	29;"	d	file:
+HITS_CORRECT	chunkloccache.c	/^	HITS_CORRECT = 0,$/;"	e	enum:__anon7	file:
+HITS_WRONG	chunkloccache.c	/^	HITS_WRONG,$/;"	e	enum:__anon7	file:
+IDHASH	writedata.c	60;"	d	file:
+IDHASHSIZE	writedata.c	59;"	d	file:
+INODE_TYPE_MASK	mfs_meta_fuse.c	81;"	d	file:
+INODE_TYPE_MASK	mfstools.c	48;"	d	file:
+INODE_TYPE_RESERVED	mfs_meta_fuse.c	83;"	d	file:
+INODE_TYPE_RESERVED	mfstools.c	50;"	d	file:
+INODE_TYPE_SPECIAL	mfs_meta_fuse.c	84;"	d	file:
+INODE_TYPE_SPECIAL	mfstools.c	51;"	d	file:
+INODE_TYPE_TRASH	mfs_meta_fuse.c	82;"	d	file:
+INODE_TYPE_TRASH	mfstools.c	49;"	d	file:
+INODE_VALUE_MASK	mfs_meta_fuse.c	80;"	d	file:
+INODE_VALUE_MASK	mfstools.c	47;"	d	file:
+INSERTS	symlinkcache.c	/^	INSERTS = 0,$/;"	e	enum:__anon5	file:
+IO_NONE	mfs_fuse.c	/^enum {IO_NONE,IO_READ,IO_WRITE,IO_READONLY,IO_WRITEONLY};$/;"	e	enum:__anon3	file:
+IO_READ	mfs_fuse.c	/^enum {IO_NONE,IO_READ,IO_WRITE,IO_READONLY,IO_WRITEONLY};$/;"	e	enum:__anon3	file:
+IO_READONLY	mfs_fuse.c	/^enum {IO_NONE,IO_READ,IO_WRITE,IO_READONLY,IO_WRITEONLY};$/;"	e	enum:__anon3	file:
+IO_WRITE	mfs_fuse.c	/^enum {IO_NONE,IO_READ,IO_WRITE,IO_READONLY,IO_WRITEONLY};$/;"	e	enum:__anon3	file:
+IO_WRITEONLY	mfs_fuse.c	/^enum {IO_NONE,IO_READ,IO_WRITE,IO_READONLY,IO_WRITEONLY};$/;"	e	enum:__anon3	file:
+IS_SPECIAL_INODE	mfs_fuse.c	97;"	d	file:
+IS_SPECIAL_NAME	mfs_fuse.c	98;"	d	file:
+KEY_BIND	main.c	/^	KEY_BIND,$/;"	e	enum:__anon1	file:
+KEY_CFGFILE	main.c	/^	KEY_CFGFILE,$/;"	e	enum:__anon1	file:
+KEY_HELP	main.c	/^	KEY_HELP,$/;"	e	enum:__anon1	file:
+KEY_HOST	main.c	/^	KEY_HOST,$/;"	e	enum:__anon1	file:
+KEY_META	main.c	/^	KEY_META,$/;"	e	enum:__anon1	file:
+KEY_NOSTDMOUNTOPTIONS	main.c	/^	KEY_NOSTDMOUNTOPTIONS,$/;"	e	enum:__anon1	file:
+KEY_PASSWORDASK	main.c	/^	KEY_PASSWORDASK,$/;"	e	enum:__anon1	file:
+KEY_PATH	main.c	/^	KEY_PATH,$/;"	e	enum:__anon1	file:
+KEY_PORT	main.c	/^	KEY_PORT,$/;"	e	enum:__anon1	file:
+KEY_VERSION	main.c	/^	KEY_VERSION,$/;"	e	enum:__anon1	file:
+LINELENG	oplog.c	33;"	d	file:
+LINKS	symlinkcache.c	/^	LINKS,$/;"	e	enum:__anon5	file:
+MAPBITS	readdata.c	46;"	d	file:
+MAPINDX	readdata.c	49;"	d	file:
+MAPMASK	readdata.c	48;"	d	file:
+MAPSIZE	readdata.c	47;"	d	file:
+MASTERINFO_INODE	mfs_fuse.c	69;"	d	file:
+MASTERINFO_INODE	mfs_meta_fuse.c	94;"	d	file:
+MASTERINFO_NAME	mfs_fuse.c	68;"	d	file:
+MASTERINFO_NAME	mfs_meta_fuse.c	93;"	d	file:
+MASTER_BYTESRCVD	mastercomm.c	/^	MASTER_BYTESRCVD,$/;"	e	enum:__anon6	file:
+MASTER_BYTESSENT	mastercomm.c	/^	MASTER_BYTESSENT,$/;"	e	enum:__anon6	file:
+MASTER_CONNECTS	mastercomm.c	/^	MASTER_CONNECTS = 0,$/;"	e	enum:__anon6	file:
+MASTER_PACKETSRCVD	mastercomm.c	/^	MASTER_PACKETSRCVD,$/;"	e	enum:__anon6	file:
+MASTER_PACKETSSENT	mastercomm.c	/^	MASTER_PACKETSSENT,$/;"	e	enum:__anon6	file:
+MAXHISTORYSIZE	oplog.c	34;"	d	file:
+MAX_FILE_SIZE	mfs_fuse.c	59;"	d	file:
+META_INODE_MAX	mfs_meta_fuse.c	78;"	d	file:
+META_INODE_MIN	mfs_meta_fuse.c	77;"	d	file:
+META_RESERVED_INODE	mfs_meta_fuse.c	73;"	d	file:
+META_RESERVED_MODE	mfs_meta_fuse.c	74;"	d	file:
+META_RESERVED_NAME	mfs_meta_fuse.c	75;"	d	file:
+META_ROOT_INODE	mfs_meta_fuse.c	64;"	d	file:
+META_ROOT_MODE	mfs_meta_fuse.c	65;"	d	file:
+META_TRASH_INODE	mfs_meta_fuse.c	67;"	d	file:
+META_TRASH_MODE	mfs_meta_fuse.c	68;"	d	file:
+META_TRASH_NAME	mfs_meta_fuse.c	69;"	d	file:
+META_UNDEL_INODE	mfs_meta_fuse.c	70;"	d	file:
+META_UNDEL_MODE	mfs_meta_fuse.c	71;"	d	file:
+META_UNDEL_NAME	mfs_meta_fuse.c	72;"	d	file:
+MFSAPPENDCHUNKS	mfstools.c	/^	MFSAPPENDCHUNKS,$/;"	e	enum:__anon2	file:
+MFSCHECKFILE	mfstools.c	/^	MFSCHECKFILE,$/;"	e	enum:__anon2	file:
+MFSDELEATTR	mfstools.c	/^	MFSDELEATTR,$/;"	e	enum:__anon2	file:
+MFSDELQUOTA	mfstools.c	/^	MFSDELQUOTA$/;"	e	enum:__anon2	file:
+MFSDIRINFO	mfstools.c	/^	MFSDIRINFO,$/;"	e	enum:__anon2	file:
+MFSFILEINFO	mfstools.c	/^	MFSFILEINFO,$/;"	e	enum:__anon2	file:
+MFSFILEREPAIR	mfstools.c	/^	MFSFILEREPAIR,$/;"	e	enum:__anon2	file:
+MFSGETEATTR	mfstools.c	/^	MFSGETEATTR,$/;"	e	enum:__anon2	file:
+MFSGETGOAL	mfstools.c	/^	MFSGETGOAL=1,$/;"	e	enum:__anon2	file:
+MFSGETQUOTA	mfstools.c	/^	MFSGETQUOTA,$/;"	e	enum:__anon2	file:
+MFSGETTRASHTIME	mfstools.c	/^	MFSGETTRASHTIME,$/;"	e	enum:__anon2	file:
+MFSMAKESNAPSHOT	mfstools.c	/^	MFSMAKESNAPSHOT,$/;"	e	enum:__anon2	file:
+MFSSETEATTR	mfstools.c	/^	MFSSETEATTR,$/;"	e	enum:__anon2	file:
+MFSSETGOAL	mfstools.c	/^	MFSSETGOAL,$/;"	e	enum:__anon2	file:
+MFSSETQUOTA	mfstools.c	/^	MFSSETQUOTA,$/;"	e	enum:__anon2	file:
+MFSSETTRASHTIME	mfstools.c	/^	MFSSETTRASHTIME,$/;"	e	enum:__anon2	file:
+MFS_OPT	main.c	174;"	d	file:
+MFS_USE_MEMLOCK	main.c	22;"	d	file:
+MIN_SPECIAL_INODE	mfs_fuse.c	96;"	d	file:
+MISSES	chunkloccache.c	/^	MISSES,$/;"	e	enum:__anon7	file:
+MMAP_ALLOC	mastercomm.c	21;"	d	file:
+NAME_MAX	mfs_meta_fuse.c	61;"	d	file:
+OPBUFFSIZE	oplog.c	32;"	d	file:
+OPHISTORY_INODE	mfs_fuse.c	85;"	d	file:
+OPHISTORY_NAME	mfs_fuse.c	84;"	d	file:
+OPLOG_INODE	mfs_fuse.c	83;"	d	file:
+OPLOG_NAME	mfs_fuse.c	82;"	d	file:
+OP_ACCESS	mfs_fuse.c	/^	OP_ACCESS,$/;"	e	enum:__anon4	file:
+OP_CREATE	mfs_fuse.c	/^	OP_CREATE,$/;"	e	enum:__anon4	file:
+OP_DIRCACHE_GETATTR	mfs_fuse.c	/^	OP_DIRCACHE_GETATTR,$/;"	e	enum:__anon4	file:
+OP_DIRCACHE_LOOKUP	mfs_fuse.c	/^	OP_DIRCACHE_LOOKUP,$/;"	e	enum:__anon4	file:
+OP_FLUSH	mfs_fuse.c	/^	OP_FLUSH,$/;"	e	enum:__anon4	file:
+OP_FSYNC	mfs_fuse.c	/^	OP_FSYNC,$/;"	e	enum:__anon4	file:
+OP_GETATTR	mfs_fuse.c	/^	OP_GETATTR,$/;"	e	enum:__anon4	file:
+OP_GETDIR_FULL	mfs_fuse.c	/^	OP_GETDIR_FULL,$/;"	e	enum:__anon4	file:
+OP_GETDIR_SMALL	mfs_fuse.c	/^	OP_GETDIR_SMALL,$/;"	e	enum:__anon4	file:
+OP_LINK	mfs_fuse.c	/^	OP_LINK,$/;"	e	enum:__anon4	file:
+OP_LOOKUP	mfs_fuse.c	/^	OP_LOOKUP,$/;"	e	enum:__anon4	file:
+OP_LOOKUP_INTERNAL	mfs_fuse.c	/^	OP_LOOKUP_INTERNAL,$/;"	e	enum:__anon4	file:
+OP_MKDIR	mfs_fuse.c	/^	OP_MKDIR,$/;"	e	enum:__anon4	file:
+OP_MKNOD	mfs_fuse.c	/^	OP_MKNOD,$/;"	e	enum:__anon4	file:
+OP_OPEN	mfs_fuse.c	/^	OP_OPEN,$/;"	e	enum:__anon4	file:
+OP_OPENDIR	mfs_fuse.c	/^	OP_OPENDIR,$/;"	e	enum:__anon4	file:
+OP_READ	mfs_fuse.c	/^	OP_READ,$/;"	e	enum:__anon4	file:
+OP_READDIR	mfs_fuse.c	/^	OP_READDIR,$/;"	e	enum:__anon4	file:
+OP_READLINK	mfs_fuse.c	/^	OP_READLINK,$/;"	e	enum:__anon4	file:
+OP_READLINK_CACHED	mfs_fuse.c	/^	OP_READLINK_CACHED,$/;"	e	enum:__anon4	file:
+OP_RELEASE	mfs_fuse.c	/^	OP_RELEASE,$/;"	e	enum:__anon4	file:
+OP_RELEASEDIR	mfs_fuse.c	/^	OP_RELEASEDIR,$/;"	e	enum:__anon4	file:
+OP_RENAME	mfs_fuse.c	/^	OP_RENAME,$/;"	e	enum:__anon4	file:
+OP_RMDIR	mfs_fuse.c	/^	OP_RMDIR,$/;"	e	enum:__anon4	file:
+OP_SETATTR	mfs_fuse.c	/^	OP_SETATTR,$/;"	e	enum:__anon4	file:
+OP_STATFS	mfs_fuse.c	/^	OP_STATFS = 0,$/;"	e	enum:__anon4	file:
+OP_SYMLINK	mfs_fuse.c	/^	OP_SYMLINK,$/;"	e	enum:__anon4	file:
+OP_UNLINK	mfs_fuse.c	/^	OP_UNLINK,$/;"	e	enum:__anon4	file:
+OP_WRITE	mfs_fuse.c	/^	OP_WRITE,$/;"	e	enum:__anon4	file:
+PATH_SIZE_LIMIT	mfs_meta_fuse.c	62;"	d	file:
+PHN_USEIEC	mfstools.c	67;"	d	file:
+PHN_USESI	mfstools.c	66;"	d	file:
+PKGVERSION	mfs_fuse.c	61;"	d	file:
+PKGVERSION	mfs_meta_fuse.c	106;"	d	file:
+QUERYSIZE	masterproxy.c	12;"	d	file:
+READDIR_BUFFSIZE	mfs_fuse.c	57;"	d	file:
+READDIR_BUFFSIZE	mfs_meta_fuse.c	41;"	d	file:
+RECEIVE_TIMEOUT	mastercomm.c	97;"	d	file:
+REFRESHTICKS	readdata.c	43;"	d	file:
+SEARCH_HITS	symlinkcache.c	/^	SEARCH_HITS,$/;"	e	enum:__anon5	file:
+SEARCH_MISSES	symlinkcache.c	/^	SEARCH_MISSES,$/;"	e	enum:__anon5	file:
+STATNODES	chunkloccache.c	/^	STATNODES$/;"	e	enum:__anon7	file:
+STATNODES	mastercomm.c	/^	STATNODES$/;"	e	enum:__anon6	file:
+STATNODES	mfs_fuse.c	/^	STATNODES$/;"	e	enum:__anon4	file:
+STATNODES	symlinkcache.c	/^	STATNODES$/;"	e	enum:__anon5	file:
+STATS_INODE	mfs_fuse.c	78;"	d	file:
+STATS_NAME	mfs_fuse.c	77;"	d	file:
+STR	main.c	64;"	d	file:
+STR	mfstools.c	44;"	d	file:
+STR_AUX	main.c	63;"	d	file:
+STR_AUX	mfstools.c	43;"	d	file:
+SYMLINK	mfstools.c	2394;"	d	file:
+TIMEDIFF	readdata.c	80;"	d	file:
+TIMEDIFF	writedata.c	113;"	d	file:
+USECTICK	readdata.c	41;"	d	file:
+WCHASH	writedata.c	57;"	d	file:
+WCHASHSIZE	writedata.c	56;"	d	file:
+WORKERS	writedata.c	54;"	d	file:
+_CHUNKLOC_CACHE_H_	chunkloccache.h	20;"	d
+_CSCOMM_H_	cscomm.h	20;"	d
+_CSDB_H_	csdb.h	20;"	d
+_DIRATTRCACHE_H_	dirattrcache.h	20;"	d
+_MASTERCOMM_H_	mastercomm.h	20;"	d
+_MASTERPROXY_H_	masterproxy.h	20;"	d
+_MFS_FUSE_H_	mfs_fuse.h	20;"	d
+_MFS_META_FUSE_H_	mfs_meta_fuse.h	20;"	d
+_OPLOG_H_	oplog.h	20;"	d
+_READDATA_H_	readdata.h	20;"	d
+_STATS_H_	stats.h	20;"	d
+_SYMLINKCACHE_H_	symlinkcache.h	20;"	d
+_WRITEDATAALT_H_	writedata.h	20;"	d
+__DARWIN_64_BIT_INO_T	mfs_fuse.c	21;"	d	file:
+__DARWIN_64_BIT_INO_T	mfs_meta_fuse.c	21;"	d	file:
+__printflike	oplog.h	27;"	d
+__printflike	oplog.h	29;"	d
+_acquired_file	mastercomm.c	/^typedef struct _acquired_file {$/;"	s	file:
+_csdbentry	csdb.c	/^typedef struct _csdbentry {$/;"	s	file:
+_dirbuf	mfs_fuse.c	/^typedef struct _dirbuf {$/;"	s	file:
+_dirbuf	mfs_meta_fuse.c	/^typedef struct _dirbuf {$/;"	s	file:
+_dircache	dirattrcache.c	/^typedef struct _dircache {$/;"	s	file:
+_fhentry	oplog.c	/^typedef struct _fhentry {$/;"	s	file:
+_finfo	mfs_fuse.c	/^typedef struct _finfo {$/;"	s	file:
+_hashbucket	chunkloccache.c	/^typedef struct _hashbucket {$/;"	s	file:
+_hashbucket	symlinkcache.c	/^typedef struct _hashbucket {$/;"	s	file:
+_pathbuf	mfs_meta_fuse.c	/^typedef struct _pathbuf {$/;"	s	file:
+_readrec	readdata.c	/^typedef struct _readrec {$/;"	s	file:
+_sinfo	mfs_fuse.c	/^typedef struct _sinfo {$/;"	s	file:
+_statsnode	stats.c	/^typedef struct _statsnode {$/;"	s	file:
+_threc	mastercomm.c	/^typedef struct _threc {$/;"	s	file:
+absolute	stats.c	/^	uint8_t absolute;$/;"	m	struct:_statsnode	file:
+acquired_file	mastercomm.c	/^} acquired_file;$/;"	t	typeref:struct:_acquired_file	file:
+active	stats.c	/^	uint8_t active;$/;"	m	struct:_statsnode	file:
+activenodes	stats.c	/^static uint32_t activenodes = 0;$/;"	v	file:
+afhead	mastercomm.c	/^static acquired_file *afhead=NULL;$/;"	v	file:
+aflock	mastercomm.c	/^static pthread_mutex_t fdlock,reclock,aflock;$/;"	v	file:
+allactiveplengs	stats.c	/^static uint32_t allactiveplengs = 0;$/;"	v	file:
+append_file	mfstools.c	/^int append_file(const char *fname,const char *afname) {$/;"	f
+attr_cache_timeout	mfs_fuse.c	/^static double attr_cache_timeout = 0.1;$/;"	v	file:
+attr_cache_timeout	mfs_meta_fuse.c	/^static double attr_cache_timeout = 1.0;$/;"	v	file:
+attrcacheto	main.c	/^	double attrcacheto;$/;"	m	struct:mfsopts	file:
+bindhost	main.c	/^	char *bindhost;$/;"	m	struct:mfsopts	file:
+bindhostname	mastercomm.c	/^	char *bindhostname;$/;"	m	struct:connect_args_t	file:
+bsd_basename	mfstools.c	/^int bsd_basename(const char *path,char *bname) {$/;"	f
+bsd_dirname	mfstools.c	/^int bsd_dirname(const char *path,char *bname) {$/;"	f
+buff	mfs_fuse.c	/^	char *buff;$/;"	m	struct:_sinfo	file:
+cacheblockcount	writedata.c	/^	uint32_t cacheblockcount;$/;"	m	struct:inodedata_s	file:
+cacheblocks	writedata.c	/^static cblock *cacheblocks,*freecblockshead;$/;"	v	file:
+cachefiles	main.c	/^	int cachefiles;$/;"	m	struct:mfsopts	file:
+cachemode	main.c	/^	char *cachemode;$/;"	m	struct:mfsopts	file:
+cblock	writedata.c	/^} cblock;$/;"	t	typeref:struct:cblock_s	file:
+cblock_s	writedata.c	/^typedef struct cblock_s {$/;"	s	file:
+changed	mfs_meta_fuse.c	/^	int changed;$/;"	m	struct:_pathbuf	file:
+check_file	mfstools.c	/^int check_file(const char* fname) {$/;"	f
+chindx	writedata.c	/^	uint32_t chindx;	\/\/ chunk number$/;"	m	struct:cblock_s	file:
+chunkid	chunkloccache.c	/^	uint64_t chunkid[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+chunkid	readdata.c	/^	uint64_t chunkid;		\/\/ this->locked$/;"	m	struct:_readrec	file:
+chunkloc_cache_init	chunkloccache.c	/^void chunkloc_cache_init(void) {$/;"	f
+chunkloc_cache_insert	chunkloccache.c	/^void chunkloc_cache_insert(uint32_t inode,uint32_t pos,uint64_t chunkid,uint32_t chunkversion,uint8_t csdatasize,const uint8_t *csdata) {$/;"	f
+chunkloc_cache_search	chunkloccache.c	/^int chunkloc_cache_search(uint32_t inode,uint32_t pos,uint64_t *chunkid,uint32_t *chunkversion,uint8_t *csdatasize,const uint8_t **csdata) {$/;"	f
+chunkloc_cache_stats_inc	chunkloccache.c	/^static inline void chunkloc_cache_stats_inc(uint8_t id) {$/;"	f	file:
+chunkloc_cache_statsptr_init	chunkloccache.c	/^static inline void chunkloc_cache_statsptr_init(void) {$/;"	f	file:
+chunkloc_cache_term	chunkloccache.c	/^void chunkloc_cache_term(void) {$/;"	f
+chunkloc_compare	chunkloccache.c	/^static inline int chunkloc_compare(const uint8_t *l1,const uint8_t *l2,uint8_t s) {$/;"	f	file:
+chunklochash	chunkloccache.c	/^static hashbucket *chunklochash = NULL;$/;"	v	file:
+chunkversion	chunkloccache.c	/^	uint32_t chunkversion[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+clcachelock	chunkloccache.c	/^static pthread_mutex_t clcachelock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+close_master_conn	mfstools.c	/^void close_master_conn(int err) {$/;"	f
+cnt	mastercomm.c	/^	uint32_t cnt;$/;"	m	struct:_acquired_file	file:
+cond	mastercomm.c	/^	pthread_cond_t cond;$/;"	m	struct:_threc	file:
+cond	readdata.c	/^	pthread_cond_t cond;		\/\/ glock$/;"	m	struct:_readrec	file:
+connect_args	mastercomm.c	/^static struct connect_args_t connect_args;$/;"	v	typeref:struct:connect_args_t	file:
+connect_args_t	mastercomm.c	/^struct connect_args_t {$/;"	s	file:
+convtm	oplog.c	/^static struct tm convtm;$/;"	v	typeref:struct:tm	file:
+convts	oplog.c	/^static time_t convts=0;$/;"	v	file:
+counter	stats.c	/^	uint64_t counter;$/;"	m	struct:_statsnode	file:
+cs_readblock	cscomm.c	/^int cs_readblock(int fd,uint64_t chunkid,uint32_t version,uint32_t offset,uint32_t size,uint8_t *buff) {$/;"	f
+cs_writeblock	cscomm.c	/^int cs_writeblock(int fd,uint64_t chunkid,uint32_t writeid,uint16_t blockno,uint16_t offset,uint32_t size,uint8_t *buff) {$/;"	f
+cs_writeinit	cscomm.c	/^int cs_writeinit(int fd,const uint8_t *chain,uint32_t chainsize,uint64_t chunkid,uint32_t version) {$/;"	f
+cs_writestatus	cscomm.c	/^int cs_writestatus(int fd,uint64_t chunkid,uint32_t writeid) {$/;"	f
+csdata	chunkloccache.c	/^	uint8_t *csdata[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+csdatasize	chunkloccache.c	/^	uint8_t csdatasize[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+csdb_getopcnt	csdb.c	/^uint32_t csdb_getopcnt(uint32_t ip,uint16_t port) {$/;"	f
+csdb_getreadcnt	csdb.c	/^uint32_t csdb_getreadcnt(uint32_t ip,uint16_t port) {$/;"	f
+csdb_getwritecnt	csdb.c	/^uint32_t csdb_getwritecnt(uint32_t ip,uint16_t port) {$/;"	f
+csdb_init	csdb.c	/^void csdb_init(void) {$/;"	f
+csdb_readdec	csdb.c	/^void csdb_readdec(uint32_t ip,uint16_t port) {$/;"	f
+csdb_readinc	csdb.c	/^void csdb_readinc(uint32_t ip,uint16_t port) {$/;"	f
+csdb_term	csdb.c	/^void csdb_term(void) {$/;"	f
+csdb_writedec	csdb.c	/^void csdb_writedec(uint32_t ip,uint16_t port) {$/;"	f
+csdb_writeinc	csdb.c	/^void csdb_writeinc(uint32_t ip,uint16_t port) {$/;"	f
+csdbentry	csdb.c	/^} csdbentry;$/;"	t	typeref:struct:_csdbentry	file:
+csdbhtab	csdb.c	/^static csdbentry *csdbhtab[CSDB_HASHSIZE];$/;"	v	file:
+csdblock	csdb.c	/^static pthread_mutex_t *csdblock;$/;"	v	file:
+ctx	dirattrcache.c	/^	struct fuse_ctx ctx;$/;"	m	struct:_dircache	typeref:struct:_dircache::fuse_ctx	file:
+current_device	mfstools.c	/^static dev_t current_device = 0;$/;"	v	file:
+current_master	mfstools.c	/^static int current_master = -1;$/;"	v	file:
+custom_cfg	main.c	/^static int custom_cfg;$/;"	v	file:
+data	mfs_fuse.c	/^	void *data;$/;"	m	struct:_finfo	file:
+data	writedata.c	/^	uint8_t data[MFSBLOCKSIZE];	\/\/ modified only when writeid==0$/;"	m	struct:cblock_s	file:
+datachainhead	writedata.c	/^	cblock *datachainhead,*datachaintail;$/;"	m	struct:inodedata_s	file:
+datachaintail	writedata.c	/^	cblock *datachainhead,*datachaintail;$/;"	m	struct:inodedata_s	file:
+dataformat	mfs_fuse.c	/^	int dataformat;$/;"	m	struct:_dirbuf	file:
+dbuff	dirattrcache.c	/^	const uint8_t *dbuff;$/;"	m	struct:_dircache	file:
+dcache	mfs_fuse.c	/^	void *dcache;$/;"	m	struct:_dirbuf	file:
+dcache_calchashsize	dirattrcache.c	/^static inline void dcache_calchashsize(dircache *d) {$/;"	f	file:
+dcache_elemcount	dirattrcache.c	/^uint32_t dcache_elemcount(const uint8_t *dbuff,uint32_t dsize) {$/;"	f
+dcache_getattr	dirattrcache.c	/^uint8_t dcache_getattr(const struct fuse_ctx *ctx,uint32_t inode,uint8_t attr[35]) {$/;"	f
+dcache_hash	dirattrcache.c	/^static inline uint32_t dcache_hash(const uint8_t *name,uint8_t nleng) {$/;"	f	file:
+dcache_inodehashsearch	dirattrcache.c	/^static inline uint8_t dcache_inodehashsearch(dircache *d,uint32_t inode,uint8_t attr[35]) {$/;"	f	file:
+dcache_lookup	dirattrcache.c	/^uint8_t dcache_lookup(const struct fuse_ctx *ctx,uint32_t parent,uint8_t nleng,const uint8_t *name,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+dcache_makeinodehash	dirattrcache.c	/^void dcache_makeinodehash(dircache *d) {$/;"	f
+dcache_makenamehash	dirattrcache.c	/^void dcache_makenamehash(dircache *d) {$/;"	f
+dcache_namehashsearch	dirattrcache.c	/^static inline uint8_t dcache_namehashsearch(dircache *d,uint8_t nleng,const uint8_t *name,uint32_t *inode,uint8_t attr[35]) {$/;"	f	file:
+dcache_new	dirattrcache.c	/^void* dcache_new(const struct fuse_ctx *ctx,uint32_t parent,const uint8_t *dbuff,uint32_t dsize) {$/;"	f
+dcache_release	dirattrcache.c	/^void dcache_release(void *r) {$/;"	f
+debug	main.c	/^	int debug;$/;"	m	struct:mfsopts	file:
+debug_mode	mfs_fuse.c	/^static int debug_mode = 0;$/;"	v	file:
+debug_mode	mfs_meta_fuse.c	/^static int debug_mode = 0;$/;"	v	file:
+defaultmountpoint	main.c	/^static char *defaultmountpoint = NULL;$/;"	v	file:
+dir_dataentries_convert	mfs_meta_fuse.c	/^static void dir_dataentries_convert(uint8_t *buff,const uint8_t *dbuff,uint32_t dsize,uint32_t inodemask) {$/;"	f	file:
+dir_dataentries_size	mfs_meta_fuse.c	/^static uint32_t dir_dataentries_size(const uint8_t *dbuff,uint32_t dsize) {$/;"	f	file:
+dir_info	mfstools.c	/^int dir_info(const char *fname) {$/;"	f
+dir_metaentries_fill	mfs_meta_fuse.c	/^static void dir_metaentries_fill(uint8_t *buff,uint32_t ino) {$/;"	f	file:
+dir_metaentries_size	mfs_meta_fuse.c	/^static uint32_t dir_metaentries_size(uint32_t ino) {$/;"	f	file:
+dirbuf	mfs_fuse.c	/^} dirbuf;$/;"	t	typeref:struct:_dirbuf	file:
+dirbuf	mfs_meta_fuse.c	/^} dirbuf;$/;"	t	typeref:struct:_dirbuf	file:
+dirbuf_meta_fill	mfs_meta_fuse.c	/^static void dirbuf_meta_fill(dirbuf *b, uint32_t ino) {$/;"	f	file:
+dircache	dirattrcache.c	/^} dircache;$/;"	t	typeref:struct:_dircache	file:
+direntry_cache_timeout	mfs_fuse.c	/^static double direntry_cache_timeout = 0.1;$/;"	v	file:
+direntrycacheto	main.c	/^	double direntrycacheto;$/;"	m	struct:mfsopts	file:
+disconnect	mastercomm.c	/^static int disconnect;$/;"	v	file:
+donotrememberpassword	main.c	/^	int donotrememberpassword;$/;"	m	struct:mfsopts	file:
+dqueue	writedata.c	/^static void *jqueue,*dqueue;$/;"	v	file:
+dqueue_worker_th	writedata.c	/^static pthread_t dqueue_worker_th;$/;"	v	file:
+dsize	dirattrcache.c	/^	uint32_t dsize;$/;"	m	struct:_dircache	file:
+eattrdesc	mfstools.c	/^static const char* eattrdesc[EATTR_BITS]={EATTR_DESCRIPTIONS};$/;"	v	file:
+eattrtab	mfstools.c	/^static const char* eattrtab[EATTR_BITS]={EATTR_STRINGS};$/;"	v	file:
+entry_cache_timeout	mfs_fuse.c	/^static double entry_cache_timeout = 0.0;$/;"	v	file:
+entry_cache_timeout	mfs_meta_fuse.c	/^static double entry_cache_timeout = 0.0;$/;"	v	file:
+entrycacheto	main.c	/^	double entrycacheto;$/;"	m	struct:mfsopts	file:
+errtab	mastercomm.c	/^const char* errtab[]={ERROR_STRINGS};$/;"	v
+fcbcond	writedata.c	/^static pthread_cond_t fcbcond;$/;"	v	file:
+fcbwaiting	writedata.c	/^static uint8_t fcbwaiting;$/;"	v	file:
+fd	mastercomm.c	/^static int fd;$/;"	v	file:
+fd	readdata.c	/^	int fd;				\/\/ this->locked$/;"	m	struct:_readrec	file:
+fdlock	mastercomm.c	/^static pthread_mutex_t fdlock,reclock,aflock;$/;"	v	file:
+fh	oplog.c	/^	unsigned long fh;$/;"	m	struct:_fhentry	file:
+fhentry	oplog.c	/^} fhentry;$/;"	t	typeref:struct:_fhentry	file:
+fhhead	oplog.c	/^static fhentry *fhhead=NULL;$/;"	v	file:
+file_info	mfstools.c	/^int file_info(const char *fname) {$/;"	f
+file_repair	mfstools.c	/^int file_repair(const char *fname) {$/;"	f
+finfo	mfs_fuse.c	/^} finfo;$/;"	t	typeref:struct:_finfo	file:
+firstchild	stats.c	/^	struct _statsnode *firstchild;$/;"	m	struct:_statsnode	typeref:struct:_statsnode::_statsnode	file:
+firstnode	stats.c	/^static statsnode *firstnode = NULL;$/;"	v	file:
+fleng	readdata.c	/^	uint64_t fleng;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+flushcond	writedata.c	/^	pthread_cond_t flushcond;	\/\/ wait for inqueue==0 (flush)$/;"	m	struct:inodedata_s	file:
+flushwaiting	writedata.c	/^	uint16_t flushwaiting;$/;"	m	struct:inodedata_s	file:
+fnleng	stats.c	/^	uint32_t fnleng; \/\/ : strlen(fullname)$/;"	m	struct:_statsnode	file:
+freecacheblocks	writedata.c	/^static uint32_t freecacheblocks;$/;"	v	file:
+freecblockshead	writedata.c	/^static cblock *cacheblocks,*freecblockshead;$/;"	v	file:
+from	writedata.c	/^	uint32_t from;		\/\/ first filled byte in data (modified only when writeid==0)$/;"	m	struct:cblock_s	file:
+fs_access	mastercomm.c	/^uint8_t fs_access(uint32_t inode,uint32_t uid,uint32_t gid,uint8_t modemask) {$/;"	f
+fs_close_session	mastercomm.c	/^void fs_close_session(void) {$/;"	f
+fs_connect	mastercomm.c	/^int fs_connect(uint8_t oninit,const char *bindhostname,const char *masterhostname,const char *masterportname,uint8_t meta,const char *info,const char *subfolder,const uint8_t passworddigest[16],uint8_t *sesflags,uint32_t *rootuid,uint32_t *rootgid,uint32_t *mapalluid,uint32_t *mapallgid) {$/;"	f
+fs_createpacket	mastercomm.c	/^uint8_t* fs_createpacket(threc *rec,uint32_t cmd,uint32_t size) {$/;"	f
+fs_custom	mastercomm.c	/^uint8_t fs_custom(uint32_t qcmd,const uint8_t *query,uint32_t queryleng,uint32_t *acmd,uint8_t *answer,uint32_t *answerleng) {$/;"	f
+fs_dec_acnt	mastercomm.c	/^void fs_dec_acnt(uint32_t inode) {$/;"	f
+fs_get_my_threc	mastercomm.c	/^threc* fs_get_my_threc() {$/;"	f
+fs_get_threc_by_id	mastercomm.c	/^threc* fs_get_threc_by_id(uint32_t packetid) {$/;"	f
+fs_getattr	mastercomm.c	/^uint8_t fs_getattr(uint32_t inode,uint32_t uid,uint32_t gid,uint8_t attr[35]) {$/;"	f
+fs_getdetachedattr	mastercomm.c	/^uint8_t fs_getdetachedattr(uint32_t inode,uint8_t attr[35]) {$/;"	f
+fs_getdir	mastercomm.c	/^uint8_t fs_getdir(uint32_t inode,uint32_t uid,uint32_t gid,const uint8_t **dbuff,uint32_t *dbuffsize) {$/;"	f
+fs_getdir_plus	mastercomm.c	/^uint8_t fs_getdir_plus(uint32_t inode,uint32_t uid,uint32_t gid,uint8_t addtocache,const uint8_t **dbuff,uint32_t *dbuffsize) {$/;"	f
+fs_getmasterlocation	mastercomm.c	/^void fs_getmasterlocation(uint8_t loc[14]) {$/;"	f
+fs_getreserved	mastercomm.c	/^uint8_t fs_getreserved(const uint8_t **dbuff,uint32_t *dbuffsize) {$/;"	f
+fs_getsrcip	mastercomm.c	/^uint32_t fs_getsrcip() {$/;"	f
+fs_gettrash	mastercomm.c	/^uint8_t fs_gettrash(const uint8_t **dbuff,uint32_t *dbuffsize) {$/;"	f
+fs_gettrashpath	mastercomm.c	/^uint8_t fs_gettrashpath(uint32_t inode,const uint8_t **path) {$/;"	f
+fs_inc_acnt	mastercomm.c	/^void fs_inc_acnt(uint32_t inode) {$/;"	f
+fs_init_master_connection	mastercomm.c	/^int fs_init_master_connection(const char *bindhostname,const char *masterhostname,const char *masterportname,uint8_t meta,const char *info,const char *subfolder,const uint8_t passworddigest[16],uint8_t donotrememberpassword,uint8_t *flags,uint32_t *rootuid,uint32_t *rootgid,uint32_t *mapalluid,uint32_t *mapallgid) {$/;"	f
+fs_init_threads	mastercomm.c	/^void fs_init_threads(uint32_t retries) {$/;"	f
+fs_input_buffer_init	mastercomm.c	/^void fs_input_buffer_init(threc *rec,uint32_t size) {$/;"	f
+fs_link	mastercomm.c	/^uint8_t fs_link(uint32_t inode_src,uint32_t parent_dst,uint8_t nleng_dst,const uint8_t *name_dst,uint32_t uid,uint32_t gid,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_lookup	mastercomm.c	/^uint8_t fs_lookup(uint32_t parent,uint8_t nleng,const uint8_t *name,uint32_t uid,uint32_t gid,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_mkdir	mastercomm.c	/^uint8_t fs_mkdir(uint32_t parent,uint8_t nleng,const uint8_t *name,uint16_t mode,uint32_t uid,uint32_t gid,uint8_t copysgid,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_mknod	mastercomm.c	/^uint8_t fs_mknod(uint32_t parent,uint8_t nleng,const uint8_t *name,uint8_t type,uint16_t mode,uint32_t uid,uint32_t gid,uint32_t rdev,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_nop_thread	mastercomm.c	/^void* fs_nop_thread(void *arg) {$/;"	f
+fs_opencheck	mastercomm.c	/^uint8_t fs_opencheck(uint32_t inode,uint32_t uid,uint32_t gid,uint8_t flags,uint8_t attr[35]) {$/;"	f
+fs_output_buffer_init	mastercomm.c	/^void fs_output_buffer_init(threc *rec,uint32_t size) {$/;"	f
+fs_purge	mastercomm.c	/^uint8_t fs_purge(uint32_t inode) {$/;"	f
+fs_readchunk	mastercomm.c	/^uint8_t fs_readchunk(uint32_t inode,uint32_t indx,uint64_t *length,uint64_t *chunkid,uint32_t *version,const uint8_t **csdata,uint32_t *csdatasize) {$/;"	f
+fs_readlink	mastercomm.c	/^uint8_t fs_readlink(uint32_t inode,const uint8_t **path) {$/;"	f
+fs_receive_thread	mastercomm.c	/^void* fs_receive_thread(void *arg) {$/;"	f
+fs_reconnect	mastercomm.c	/^void fs_reconnect() {$/;"	f
+fs_release	mastercomm.c	/^void fs_release(uint32_t inode) {$/;"	f
+fs_rename	mastercomm.c	/^uint8_t fs_rename(uint32_t parent_src,uint8_t nleng_src,const uint8_t *name_src,uint32_t parent_dst,uint8_t nleng_dst,const uint8_t *name_dst,uint32_t uid,uint32_t gid,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_resolve	mastercomm.c	/^int fs_resolve(uint8_t oninit,const char *bindhostname,const char *masterhostname,const char *masterportname) {$/;"	f
+fs_rmdir	mastercomm.c	/^uint8_t fs_rmdir(uint32_t parent,uint8_t nleng,const uint8_t *name,uint32_t uid,uint32_t gid) {$/;"	f
+fs_sendandreceive	mastercomm.c	/^const uint8_t* fs_sendandreceive(threc *rec,uint32_t expected_cmd,uint32_t *answer_leng) {$/;"	f
+fs_sendandreceive_any	mastercomm.c	/^const uint8_t* fs_sendandreceive_any(threc *rec,uint32_t *received_cmd,uint32_t *answer_leng) {$/;"	f
+fs_setattr	mastercomm.c	/^uint8_t fs_setattr(uint32_t inode,uint32_t uid,uint32_t gid,uint8_t setmask,uint16_t attrmode,uint32_t attruid,uint32_t attrgid,uint32_t attratime,uint32_t attrmtime,uint8_t sugidclearmode,uint8_t attr[35]) {$/;"	f
+fs_settrashpath	mastercomm.c	/^uint8_t fs_settrashpath(uint32_t inode,const uint8_t *path) {$/;"	f
+fs_statfs	mastercomm.c	/^void fs_statfs(uint64_t *totalspace,uint64_t *availspace,uint64_t *trashspace,uint64_t *reservedspace,uint32_t *inodes) {$/;"	f
+fs_symlink	mastercomm.c	/^uint8_t fs_symlink(uint32_t parent,uint8_t nleng,const uint8_t *name,const uint8_t *path,uint32_t uid,uint32_t gid,uint32_t *inode,uint8_t attr[35]) {$/;"	f
+fs_term	mastercomm.c	/^void fs_term(void) {$/;"	f
+fs_truncate	mastercomm.c	/^uint8_t fs_truncate(uint32_t inode,uint8_t opened,uint32_t uid,uint32_t gid,uint64_t attrlength,uint8_t attr[35]) {$/;"	f
+fs_undel	mastercomm.c	/^uint8_t fs_undel(uint32_t inode) {$/;"	f
+fs_unlink	mastercomm.c	/^uint8_t fs_unlink(uint32_t parent,uint8_t nleng,const uint8_t *name,uint32_t uid,uint32_t gid) {$/;"	f
+fs_writechunk	mastercomm.c	/^uint8_t fs_writechunk(uint32_t inode,uint32_t indx,uint64_t *length,uint64_t *chunkid,uint32_t *version,const uint8_t **csdata,uint32_t *csdatasize) {$/;"	f
+fs_writeend	mastercomm.c	/^uint8_t fs_writeend(uint64_t chunkid, uint32_t inode, uint64_t length) {$/;"	f
+fterm	mastercomm.c	/^static uint8_t fterm;$/;"	v	file:
+fullname	stats.c	/^	char *fullname;$/;"	m	struct:_statsnode	file:
+fuse_opt_insert_arg	main.c	/^static int fuse_opt_insert_arg(struct fuse_args *args, int pos, const char *arg) {$/;"	f	file:
+get_eattr	mfstools.c	/^int get_eattr(const char *fname,uint8_t mode) {$/;"	f
+get_goal	mfstools.c	/^int get_goal(const char *fname,uint8_t mode) {$/;"	f
+get_trashtime	mfstools.c	/^int get_trashtime(const char *fname,uint8_t mode) {$/;"	f
+gid	mfs_fuse.c	/^	gid_t gid;$/;"	m	struct:_dirbuf	file:
+glock	dirattrcache.c	/^static pthread_mutex_t glock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+glock	readdata.c	/^static pthread_mutex_t glock;$/;"	v	file:
+glock	stats.c	/^static pthread_mutex_t glock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+glock	writedata.c	/^static pthread_mutex_t glock;$/;"	v	file:
+hashbucket	chunkloccache.c	/^} hashbucket;$/;"	t	typeref:struct:_hashbucket	file:
+hashbucket	symlinkcache.c	/^} hashbucket;$/;"	t	typeref:struct:_hashbucket	file:
+hashsize	dirattrcache.c	/^	uint32_t hashsize;$/;"	m	struct:_dircache	file:
+head	dirattrcache.c	/^static dircache *head;$/;"	v	file:
+humode	mfstools.c	/^static uint8_t humode=0;$/;"	v	file:
+ibuff	mastercomm.c	/^	uint8_t *ibuff;$/;"	m	struct:_threc	file:
+ibuffsize	mastercomm.c	/^	uint32_t ibuffsize;$/;"	m	struct:_threc	file:
+id	main.c	/^const char id[]="@(#) version: " STR(VERSMAJ) "." STR(VERSMID) "." STR(VERSMIN) ", written by Jakub Kruszona-Zawadzki";$/;"	v
+id	mfstools.c	/^const char id[]="@(#) version: " STR(VERSMAJ) "." STR(VERSMID) "." STR(VERSMIN) ", written by Jakub Kruszona-Zawadzki";$/;"	v
+idataleng	mastercomm.c	/^	uint32_t idataleng;$/;"	m	struct:_threc	file:
+idhash	writedata.c	/^static inodedata **idhash;$/;"	v	file:
+indx	readdata.c	/^	uint32_t indx;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+info	mastercomm.c	/^	char *info;$/;"	m	struct:connect_args_t	file:
+info_worker_th	writedata.c	/^static pthread_t info_worker_th;$/;"	v	file:
+inode	chunkloccache.c	/^	uint32_t inode[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+inode	mastercomm.c	/^	uint32_t inode;$/;"	m	struct:_acquired_file	file:
+inode	readdata.c	/^	uint32_t inode;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+inode	symlinkcache.c	/^	uint32_t inode[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+inode	writedata.c	/^	uint32_t inode;$/;"	m	struct:inodedata_s	file:
+inodedata	writedata.c	/^} inodedata;$/;"	t	typeref:struct:inodedata_s	file:
+inodedata_s	writedata.c	/^typedef struct inodedata_s {$/;"	s	file:
+inodehashtab	dirattrcache.c	/^	const uint8_t **inodehashtab;$/;"	m	struct:_dircache	file:
+inqueue	writedata.c	/^	uint8_t inqueue;$/;"	m	struct:inodedata_s	file:
+ioretries	main.c	/^	unsigned ioretries;$/;"	m	struct:mfsopts	file:
+ip	csdb.c	/^	uint32_t ip;$/;"	m	struct:_csdbentry	file:
+ip	readdata.c	/^	uint32_t ip;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+ip_port_cmp	mfstools.c	/^int ip_port_cmp(const void*a,const void*b) {$/;"	f
+jqueue	writedata.c	/^static void *jqueue,*dqueue;$/;"	v	file:
+keep_cache	mfs_fuse.c	/^static int keep_cache = 0;$/;"	v	file:
+keepcache	main.c	/^	int keepcache;$/;"	m	struct:mfsopts	file:
+lastwrite	mastercomm.c	/^static time_t lastwrite;$/;"	v	file:
+lcnt	writedata.c	/^	uint16_t lcnt;$/;"	m	struct:inodedata_s	file:
+leng	mfs_fuse.c	/^	uint32_t leng;$/;"	m	struct:_sinfo	file:
+lock	mfs_fuse.c	/^	pthread_mutex_t lock;$/;"	m	struct:_dirbuf	file:
+lock	mfs_fuse.c	/^	pthread_mutex_t lock;$/;"	m	struct:_finfo	file:
+lock	mfs_fuse.c	/^	pthread_mutex_t lock;$/;"	m	struct:_sinfo	file:
+lock	mfs_meta_fuse.c	/^	pthread_mutex_t lock;$/;"	m	struct:_dirbuf	file:
+lock	mfs_meta_fuse.c	/^	pthread_mutex_t lock;$/;"	m	struct:_pathbuf	file:
+locked	readdata.c	/^	uint8_t locked;			\/\/ glock$/;"	m	struct:_readrec	file:
+lsock	masterproxy.c	/^static int lsock = -1;$/;"	v	file:
+main	main.c	/^int main(int argc, char *argv[]) {$/;"	f
+main	mfstools.c	/^int main(int argc,char **argv) {$/;"	f
+mainloop	main.c	/^int mainloop(struct fuse_args *args,const char* mp,int mt,int fg) {$/;"	f
+make_fsname	main.c	/^void make_fsname(struct fuse_args *args) {$/;"	f
+make_snapshot	mfstools.c	/^int make_snapshot(const char *dstdir,const char *dstbase,const char *srcname,uint32_t srcinode,uint8_t canoverwrite) {$/;"	f
+mapnext	readdata.c	/^	struct _readrec *mapnext;	\/\/ glock$/;"	m	struct:_readrec	typeref:struct:_readrec::_readrec	file:
+master_register	mfstools.c	/^int master_register(int rfd,uint32_t cuid) {$/;"	f
+master_register_old	mfstools.c	/^int master_register_old(int rfd) {$/;"	f
+master_stats_add	mastercomm.c	/^void master_stats_add(uint8_t id,uint64_t s) {$/;"	f
+master_stats_inc	mastercomm.c	/^void master_stats_inc(uint8_t id) {$/;"	f
+master_statsptr_init	mastercomm.c	/^void master_statsptr_init(void) {$/;"	f
+masterhost	main.c	/^	char *masterhost;$/;"	m	struct:mfsopts	file:
+masterhostname	mastercomm.c	/^	char *masterhostname;$/;"	m	struct:connect_args_t	file:
+masterinfoattr	mfs_fuse.c	/^static uint8_t masterinfoattr[35]={'f', 0x01,0x24, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,10};$/;"	v	file:
+masterinfoattr	mfs_fuse.c	/^static uint8_t masterinfoattr[35]={'f', 0x01,0x24, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,14};$/;"	v	file:
+masterinfoattr	mfs_meta_fuse.c	/^static uint8_t masterinfoattr[35]={'f', 0x01,0x24, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,10};$/;"	v	file:
+masterinfoattr	mfs_meta_fuse.c	/^static uint8_t masterinfoattr[35]={'f', 0x01,0x24, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,14};$/;"	v	file:
+masterip	mastercomm.c	/^static uint32_t masterip=0;$/;"	v	file:
+masterport	main.c	/^	char *masterport;$/;"	m	struct:mfsopts	file:
+masterport	mastercomm.c	/^static uint16_t masterport=0;$/;"	v	file:
+masterportname	mastercomm.c	/^	char *masterportname;$/;"	m	struct:connect_args_t	file:
+masterproxy_acceptor	masterproxy.c	/^static void* masterproxy_acceptor(void *args) {$/;"	f	file:
+masterproxy_getlocation	masterproxy.c	/^void masterproxy_getlocation(uint8_t *masterinfo) {$/;"	f
+masterproxy_init	masterproxy.c	/^int masterproxy_init(void) {$/;"	f
+masterproxy_server	masterproxy.c	/^static void* masterproxy_server(void *args) {$/;"	f	file:
+masterproxy_term	masterproxy.c	/^void masterproxy_term(void) {$/;"	f
+masterstrip	mastercomm.c	/^static char masterstrip[17];$/;"	v	file:
+masterversion	mastercomm.c	/^static uint32_t masterversion;$/;"	v	file:
+masterversion	mfstools.c	/^static uint32_t masterversion = 0;$/;"	v	file:
+maxfleng	writedata.c	/^	uint64_t maxfleng;$/;"	m	struct:inodedata_s	file:
+maxretries	mastercomm.c	/^static uint32_t maxretries;$/;"	v	file:
+maxretries	readdata.c	/^static uint32_t maxretries;$/;"	v	file:
+maxretries	writedata.c	/^static uint32_t maxretries;$/;"	v	file:
+md5pass	main.c	/^	char *md5pass;$/;"	m	struct:mfsopts	file:
+memlock	main.c	/^	int memlock;$/;"	m	struct:mfsopts	file:
+meta	main.c	/^	int meta;$/;"	m	struct:mfsopts	file:
+meta	mastercomm.c	/^	uint8_t meta;$/;"	m	struct:connect_args_t	file:
+mfs_access	mfs_fuse.c	/^void mfs_access(fuse_req_t req, fuse_ino_t ino, int mask) {$/;"	f
+mfs_attr_get_mattr	mfs_fuse.c	/^static uint8_t mfs_attr_get_mattr(const uint8_t attr[35]) {$/;"	f	file:
+mfs_attr_to_stat	mfs_fuse.c	/^static void mfs_attr_to_stat(uint32_t inode,const uint8_t attr[35], struct stat *stbuf) {$/;"	f	file:
+mfs_attr_to_stat	mfs_meta_fuse.c	/^static void mfs_attr_to_stat(uint32_t inode,uint8_t attr[35], struct stat *stbuf) {$/;"	f	file:
+mfs_create	mfs_fuse.c	/^void mfs_create(fuse_req_t req, fuse_ino_t parent, const char *name, mode_t mode, struct fuse_file_info *fi) {$/;"	f
+mfs_errorconv	mfs_fuse.c	/^static int mfs_errorconv(int status) {$/;"	f	file:
+mfs_errorconv	mfs_meta_fuse.c	/^static int mfs_errorconv(int status) {$/;"	f	file:
+mfs_flush	mfs_fuse.c	/^void mfs_flush(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_fsinit	main.c	/^static void mfs_fsinit (void *userdata, struct fuse_conn_info *conn) {$/;"	f	file:
+mfs_fsync	mfs_fuse.c	/^void mfs_fsync(fuse_req_t req, fuse_ino_t ino, int datasync, struct fuse_file_info *fi) {$/;"	f
+mfs_getattr	mfs_fuse.c	/^void mfs_getattr(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_init	mfs_fuse.c	/^void mfs_init(int debug_mode_in,int keep_cache_in,double direntry_cache_timeout_in,double entry_cache_timeout_in,double attr_cache_timeout_in,int mkdir_copy_sgid_in,int sugid_clear_mode_in) {$/;"	f
+mfs_link	mfs_fuse.c	/^void mfs_link(fuse_req_t req, fuse_ino_t ino, fuse_ino_t newparent, const char *newname) {$/;"	f
+mfs_lookup	mfs_fuse.c	/^void mfs_lookup(fuse_req_t req, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_meta_getattr	mfs_meta_fuse.c	/^void mfs_meta_getattr(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_init	mfs_meta_fuse.c	/^void mfs_meta_init(int debug_mode_in,double entry_cache_timeout_in,double attr_cache_timeout_in) {$/;"	f
+mfs_meta_lookup	mfs_meta_fuse.c	/^void mfs_meta_lookup(fuse_req_t req, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_meta_name_to_inode	mfs_meta_fuse.c	/^uint32_t mfs_meta_name_to_inode(const char *name) {$/;"	f
+mfs_meta_open	mfs_meta_fuse.c	/^void mfs_meta_open(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_opendir	mfs_meta_fuse.c	/^void mfs_meta_opendir(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_oper	main.c	/^static struct fuse_lowlevel_ops mfs_meta_oper = {$/;"	v	typeref:struct:fuse_lowlevel_ops	file:
+mfs_meta_read	mfs_meta_fuse.c	/^void mfs_meta_read(fuse_req_t req, fuse_ino_t ino, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_readdir	mfs_meta_fuse.c	/^void mfs_meta_readdir(fuse_req_t req, fuse_ino_t ino, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_release	mfs_meta_fuse.c	/^void mfs_meta_release(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_releasedir	mfs_meta_fuse.c	/^void mfs_meta_releasedir(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_rename	mfs_meta_fuse.c	/^void mfs_meta_rename(fuse_req_t req, fuse_ino_t parent, const char *name, fuse_ino_t newparent, const char *newname) {$/;"	f
+mfs_meta_setattr	mfs_meta_fuse.c	/^void mfs_meta_setattr(fuse_req_t req, fuse_ino_t ino, struct stat *stbuf, int to_set, struct fuse_file_info *fi) {$/;"	f
+mfs_meta_stat	mfs_meta_fuse.c	/^static void mfs_meta_stat(uint32_t inode, struct stat *stbuf) {$/;"	f	file:
+mfs_meta_statfs	mfs_meta_fuse.c	/^void mfs_meta_statfs(fuse_req_t req, fuse_ino_t ino) {$/;"	f
+mfs_meta_type_to_stat	mfs_meta_fuse.c	/^static void mfs_meta_type_to_stat(uint32_t inode,uint8_t type, struct stat *stbuf) {$/;"	f	file:
+mfs_meta_unlink	mfs_meta_fuse.c	/^void mfs_meta_unlink(fuse_req_t req, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_meta_write	mfs_meta_fuse.c	/^void mfs_meta_write(fuse_req_t req, fuse_ino_t ino, const char *buf, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfs_mkdir	mfs_fuse.c	/^void mfs_mkdir(fuse_req_t req, fuse_ino_t parent, const char *name, mode_t mode) {$/;"	f
+mfs_mknod	mfs_fuse.c	/^void mfs_mknod(fuse_req_t req, fuse_ino_t parent, const char *name, mode_t mode, dev_t rdev) {$/;"	f
+mfs_newfileinfo	mfs_fuse.c	/^static finfo* mfs_newfileinfo(uint8_t accmode,uint32_t inode) {$/;"	f	file:
+mfs_open	mfs_fuse.c	/^void mfs_open(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_opendir	mfs_fuse.c	/^void mfs_opendir(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_oper	main.c	/^static struct fuse_lowlevel_ops mfs_oper = {$/;"	v	typeref:struct:fuse_lowlevel_ops	file:
+mfs_opt_parse_cfg_file	main.c	/^static void mfs_opt_parse_cfg_file(const char *filename,int optional,struct fuse_args *outargs) {$/;"	f	file:
+mfs_opt_proc_stage1	main.c	/^static int mfs_opt_proc_stage1(void *data, const char *arg, int key, struct fuse_args *outargs) {$/;"	f	file:
+mfs_opt_proc_stage2	main.c	/^static int mfs_opt_proc_stage2(void *data, const char *arg, int key, struct fuse_args *outargs) {$/;"	f	file:
+mfs_opts_stage1	main.c	/^static struct fuse_opt mfs_opts_stage1[] = {$/;"	v	typeref:struct:fuse_opt	file:
+mfs_opts_stage2	main.c	/^static struct fuse_opt mfs_opts_stage2[] = {$/;"	v	typeref:struct:fuse_opt	file:
+mfs_read	mfs_fuse.c	/^void mfs_read(fuse_req_t req, fuse_ino_t ino, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfs_readdir	mfs_fuse.c	/^void mfs_readdir(fuse_req_t req, fuse_ino_t ino, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfs_readlink	mfs_fuse.c	/^void mfs_readlink(fuse_req_t req, fuse_ino_t ino) {$/;"	f
+mfs_release	mfs_fuse.c	/^void mfs_release(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_releasedir	mfs_fuse.c	/^void mfs_releasedir(fuse_req_t req, fuse_ino_t ino, struct fuse_file_info *fi) {$/;"	f
+mfs_removefileinfo	mfs_fuse.c	/^static void mfs_removefileinfo(finfo* fileinfo) {$/;"	f	file:
+mfs_rename	mfs_fuse.c	/^void mfs_rename(fuse_req_t req, fuse_ino_t parent, const char *name, fuse_ino_t newparent, const char *newname) {$/;"	f
+mfs_rmdir	mfs_fuse.c	/^void mfs_rmdir(fuse_req_t req, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_setattr	mfs_fuse.c	/^void mfs_setattr(fuse_req_t req, fuse_ino_t ino, struct stat *stbuf, int to_set, struct fuse_file_info *fi) {$/;"	f
+mfs_statfs	mfs_fuse.c	/^void mfs_statfs(fuse_req_t req,fuse_ino_t ino) {$/;"	f
+mfs_stats_inc	mfs_fuse.c	/^void mfs_stats_inc(uint8_t id) {$/;"	f
+mfs_statsptr_init	mfs_fuse.c	/^void mfs_statsptr_init(void) {$/;"	f
+mfs_strerror	mastercomm.c	/^static inline const char* mfs_strerror(uint8_t status) {$/;"	f	file:
+mfs_strerror	mfstools.c	/^static inline const char* mfs_strerror(uint8_t status) {$/;"	f	file:
+mfs_symlink	mfs_fuse.c	/^void mfs_symlink(fuse_req_t req, const char *path, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_type_to_stat	mfs_fuse.c	/^static void mfs_type_to_stat(uint32_t inode,uint8_t type, struct stat *stbuf) {$/;"	f	file:
+mfs_unlink	mfs_fuse.c	/^void mfs_unlink(fuse_req_t req, fuse_ino_t parent, const char *name) {$/;"	f
+mfs_write	mfs_fuse.c	/^void mfs_write(fuse_req_t req, fuse_ino_t ino, const char *buf, size_t size, off_t off, struct fuse_file_info *fi) {$/;"	f
+mfsopts	main.c	/^static struct mfsopts mfsopts;$/;"	v	typeref:struct:mfsopts	file:
+mfsopts	main.c	/^struct mfsopts {$/;"	s	file:
+mkdir_copy_sgid	mfs_fuse.c	/^static int mkdir_copy_sgid = 0;$/;"	v	file:
+mkdircopysgid	main.c	/^	int mkdircopysgid;$/;"	m	struct:mfsopts	file:
+mode	mfs_fuse.c	/^	uint8_t mode;$/;"	m	struct:_finfo	file:
+mutex	mastercomm.c	/^	pthread_mutex_t mutex;$/;"	m	struct:_threc	file:
+my_get_number	mfstools.c	/^int my_get_number(const char *str,uint64_t *ret,double max,uint8_t bytesflag) {$/;"	f
+name	stats.c	/^	char *name;$/;"	m	struct:_statsnode	file:
+namehashtab	dirattrcache.c	/^	const uint8_t **namehashtab;$/;"	m	struct:_dircache	file:
+next	csdb.c	/^	struct _csdbentry *next;$/;"	m	struct:_csdbentry	typeref:struct:_csdbentry::_csdbentry	file:
+next	dirattrcache.c	/^	struct _dircache *next,**prev;$/;"	m	struct:_dircache	typeref:struct:_dircache::_dircache	file:
+next	mastercomm.c	/^	struct _acquired_file *next;$/;"	m	struct:_acquired_file	typeref:struct:_acquired_file::_acquired_file	file:
+next	mastercomm.c	/^	struct _threc *next;$/;"	m	struct:_threc	typeref:struct:_threc::_threc	file:
+next	oplog.c	/^	struct _fhentry *next;$/;"	m	struct:_fhentry	typeref:struct:_fhentry::_fhentry	file:
+next	readdata.c	/^	struct _readrec *next;		\/\/ glock$/;"	m	struct:_readrec	typeref:struct:_readrec::_readrec	file:
+next	writedata.c	/^	struct cblock_s *next,*prev;$/;"	m	struct:cblock_s	typeref:struct:cblock_s::cblock_s	file:
+next	writedata.c	/^	struct inodedata_s *next;$/;"	m	struct:inodedata_s	typeref:struct:inodedata_s::inodedata_s	file:
+nextfh	oplog.c	/^static unsigned long nextfh=1;$/;"	v	file:
+nextsibling	stats.c	/^	struct _statsnode *nextsibling;$/;"	m	struct:_statsnode	typeref:struct:_statsnode::_statsnode	file:
+nice	main.c	/^	signed nice;$/;"	m	struct:mfsopts	file:
+nleng	stats.c	/^	uint32_t nleng;	\/\/ : strlen(name)$/;"	m	struct:_statsnode	file:
+noaccesscnt	readdata.c	/^	uint8_t noaccesscnt;		\/\/ glock$/;"	m	struct:_readrec	file:
+nodata	oplog.c	/^static pthread_cond_t nodata = PTHREAD_COND_INITIALIZER;$/;"	v	file:
+nofile	main.c	/^	unsigned nofile;$/;"	m	struct:mfsopts	file:
+nostdmountoptions	main.c	/^	int nostdmountoptions;$/;"	m	struct:mfsopts	file:
+npthid	mastercomm.c	/^static pthread_t rpthid,npthid;$/;"	v	file:
+obuff	mastercomm.c	/^	uint8_t *obuff;$/;"	m	struct:_threc	file:
+obuffsize	mastercomm.c	/^	uint32_t obuffsize;$/;"	m	struct:_threc	file:
+odataleng	mastercomm.c	/^	uint32_t odataleng;$/;"	m	struct:_threc	file:
+opbuff	oplog.c	/^static uint8_t opbuff[OPBUFFSIZE];$/;"	v	file:
+opbufflock	oplog.c	/^static pthread_mutex_t opbufflock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+open_master_conn	mfstools.c	/^int open_master_conn(const char *name,uint32_t *inode,mode_t *mode,uint8_t needsamedev,uint8_t needrwfs) {$/;"	f
+oplog_getdata	oplog.c	/^void oplog_getdata(unsigned long fh,uint8_t **buff,uint32_t *leng,uint32_t maxleng) {$/;"	f
+oplog_newhandle	oplog.c	/^unsigned long oplog_newhandle(int hflag) {$/;"	f
+oplog_printf	oplog.c	/^void oplog_printf(const struct fuse_ctx *ctx,const char *format,...) {$/;"	f
+oplog_put	oplog.c	/^static inline void oplog_put(uint8_t *buff,uint32_t leng) {$/;"	f	file:
+oplog_releasedata	oplog.c	/^void oplog_releasedata(unsigned long fh) {$/;"	f
+oplog_releasehandle	oplog.c	/^void oplog_releasehandle(unsigned long fh) {$/;"	f
+oplogattr	mfs_fuse.c	/^static uint8_t oplogattr[35]={'f', 0x01,0x00, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,0};$/;"	v	file:
+p	mfs_fuse.c	/^	const uint8_t *p;$/;"	m	struct:_dirbuf	file:
+p	mfs_meta_fuse.c	/^	char *p;$/;"	m	struct:_pathbuf	file:
+p	mfs_meta_fuse.c	/^	uint8_t *p;$/;"	m	struct:_dirbuf	file:
+packetid	mastercomm.c	/^	uint32_t packetid;	\/\/ thread number$/;"	m	struct:_threc	file:
+parent	dirattrcache.c	/^	uint32_t parent;$/;"	m	struct:_dircache	file:
+password	main.c	/^	char *password;$/;"	m	struct:mfsopts	file:
+passwordask	main.c	/^	int passwordask;$/;"	m	struct:mfsopts	file:
+passworddigest	mastercomm.c	/^	uint8_t *passworddigest;$/;"	m	struct:connect_args_t	file:
+path	symlinkcache.c	/^	uint8_t* path[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+pathbuf	mfs_meta_fuse.c	/^} pathbuf;$/;"	t	typeref:struct:_pathbuf	file:
+pipe	writedata.c	/^	int pipe[2];$/;"	m	struct:inodedata_s	file:
+port	csdb.c	/^	uint16_t port;$/;"	m	struct:_csdbentry	file:
+port	readdata.c	/^	uint16_t port;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+pos	chunkloccache.c	/^	uint32_t pos[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+pos	writedata.c	/^	uint16_t pos;		\/\/ block in chunk (0...1023) - never modified$/;"	m	struct:cblock_s	file:
+prev	dirattrcache.c	/^	struct _dircache *next,**prev;$/;"	m	struct:_dircache	typeref:struct:_dircache::	file:
+prev	writedata.c	/^	struct cblock_s *next,*prev;$/;"	m	struct:cblock_s	typeref:struct:cblock_s::	file:
+print_extra_attributes	mfstools.c	/^static inline void print_extra_attributes() {$/;"	f	file:
+print_humanized_number	mfstools.c	/^void print_humanized_number(const char *format,uint64_t number,uint8_t flags) {$/;"	f
+print_number	mfstools.c	/^void print_number(const char *prefix,const char *suffix,uint64_t number,uint8_t mode32,uint8_t bytesflag,uint8_t dflag) {$/;"	f
+print_numberformat_options	mfstools.c	/^static inline void print_numberformat_options() {$/;"	f	file:
+print_recursive_option	mfstools.c	/^static inline void print_recursive_option() {$/;"	f	file:
+proxyhost	masterproxy.c	/^static uint32_t proxyhost;$/;"	v	file:
+proxyport	masterproxy.c	/^static uint16_t proxyport;$/;"	v	file:
+proxythread	masterproxy.c	/^static pthread_t proxythread;$/;"	v	file:
+pthid	readdata.c	/^static pthread_t pthid;$/;"	v	file:
+quota_control	mfstools.c	/^int quota_control(const char *fname,uint8_t del,uint8_t qflags,uint32_t sinodes,uint64_t slength,uint64_t ssize,uint64_t srealsize,uint32_t hinodes,uint64_t hlength,uint64_t hsize,uint64_t hrealsize) {$/;"	f
+rbuff	readdata.c	/^	uint8_t *rbuff;			\/\/ this->locked$/;"	m	struct:_readrec	file:
+rbuffsize	readdata.c	/^	uint32_t rbuffsize;		\/\/ this->locked$/;"	m	struct:_readrec	file:
+rcvd	mastercomm.c	/^	uint8_t rcvd;		\/\/ packet was received$/;"	m	struct:_threc	file:
+rcvd_cmd	mastercomm.c	/^	uint32_t rcvd_cmd;$/;"	m	struct:_threc	file:
+rdhead	readdata.c	/^static readrec *rdhead=NULL;$/;"	v	file:
+rdinodemap	readdata.c	/^static readrec *rdinodemap[MAPSIZE];$/;"	v	file:
+read_data	readdata.c	/^int read_data(void *rr, uint64_t offset, uint32_t *size, uint8_t **buff) {$/;"	f
+read_data_delayed_ops	readdata.c	/^void* read_data_delayed_ops(void *arg) {$/;"	f
+read_data_end	readdata.c	/^void read_data_end(void* rr) {$/;"	f
+read_data_freebuff	readdata.c	/^void read_data_freebuff(void *rr) {$/;"	f
+read_data_init	readdata.c	/^void read_data_init(uint32_t retries) {$/;"	f
+read_data_new	readdata.c	/^void* read_data_new(uint32_t inode) {$/;"	f
+read_data_refresh_connection	readdata.c	/^static int read_data_refresh_connection(readrec *rrec) {$/;"	f	file:
+read_data_term	readdata.c	/^void read_data_term(void) {$/;"	f
+read_inode_ops	readdata.c	/^void read_inode_ops(uint32_t inode) {	\/\/ attributes of inode have been changed - force reconnect$/;"	f
+readopcnt	csdb.c	/^	uint32_t readopcnt;$/;"	m	struct:_csdbentry	file:
+readpos	oplog.c	/^	uint64_t readpos;$/;"	m	struct:_fhentry	file:
+readrec	readdata.c	/^} readrec;$/;"	t	typeref:struct:_readrec	file:
+reclock	mastercomm.c	/^static pthread_mutex_t fdlock,reclock,aflock;$/;"	v	file:
+refcnt	readdata.c	/^	uint8_t refcnt;			\/\/ glock$/;"	m	struct:_readrec	file:
+refcount	oplog.c	/^	uint32_t refcount;$/;"	m	struct:_fhentry	file:
+reset	mfs_fuse.c	/^	uint8_t reset;$/;"	m	struct:_sinfo	file:
+rpthid	mastercomm.c	/^static pthread_t rpthid,npthid;$/;"	v	file:
+rterm	readdata.c	/^static uint8_t rterm;$/;"	v	file:
+sent	mastercomm.c	/^	uint8_t sent;		\/\/ packet was sent$/;"	m	struct:_threc	file:
+sessionid	mastercomm.c	/^static uint32_t sessionid;$/;"	v	file:
+sessionlost	mastercomm.c	/^static int sessionlost;$/;"	v	file:
+set_eattr	mfstools.c	/^int set_eattr(const char *fname,uint8_t eattr,uint8_t mode) {$/;"	f
+set_goal	mfstools.c	/^int set_goal(const char *fname,uint8_t goal,uint8_t mode) {$/;"	f
+set_trashtime	mfstools.c	/^int set_trashtime(const char *fname,uint32_t trashtime,uint8_t mode) {$/;"	f
+sinfo	mfs_fuse.c	/^} sinfo;$/;"	t	typeref:struct:_sinfo	file:
+size	mfs_fuse.c	/^	size_t size;$/;"	m	struct:_dirbuf	file:
+size	mfs_meta_fuse.c	/^	size_t size;$/;"	m	struct:_dirbuf	file:
+size	mfs_meta_fuse.c	/^	size_t size;$/;"	m	struct:_pathbuf	file:
+slcachelock	symlinkcache.c	/^static pthread_mutex_t slcachelock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+snapshot	mfstools.c	/^int snapshot(const char *dstname,char * const *srcnames,uint32_t srcelements,uint8_t canowerwrite) {$/;"	f
+srcip	mastercomm.c	/^static uint32_t srcip=0;$/;"	v	file:
+srcstrip	mastercomm.c	/^static char srcstrip[17];$/;"	v	file:
+stats_free	stats.c	/^void stats_free(statsnode *n) {$/;"	f
+stats_get_counterptr	stats.c	/^uint64_t* stats_get_counterptr(void *node) {$/;"	f
+stats_get_subnode	stats.c	/^void* stats_get_subnode(void *node,const char *name,uint8_t absolute) {$/;"	f
+stats_lock	stats.c	/^void stats_lock(void) {$/;"	f
+stats_print_total	stats.c	/^static inline uint32_t stats_print_total(char *buff,uint32_t maxleng) {$/;"	f	file:
+stats_print_values	stats.c	/^static inline uint32_t stats_print_values(char *buff,uint32_t maxleng,statsnode *n) {$/;"	f	file:
+stats_reset	stats.c	/^static inline void stats_reset(statsnode *n) {$/;"	f	file:
+stats_reset_all	stats.c	/^void stats_reset_all(void) {$/;"	f
+stats_show_all	stats.c	/^void stats_show_all(char **buff,uint32_t *leng) {$/;"	f
+stats_term	stats.c	/^void stats_term(void) {$/;"	f
+stats_unlock	stats.c	/^void stats_unlock(void) {$/;"	f
+statsattr	mfs_fuse.c	/^static uint8_t statsattr[35]={'f', 0x01,0xA4, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,0, 0,0,0,1, 0,0,0,0,0,0,0,0};$/;"	v	file:
+statsnode	stats.c	/^} statsnode;$/;"	t	typeref:struct:_statsnode	file:
+statsptr	chunkloccache.c	/^static uint64_t *statsptr[STATNODES];$/;"	v	file:
+statsptr	mastercomm.c	/^static uint64_t *statsptr[STATNODES];$/;"	v	file:
+statsptr	mfs_fuse.c	/^static uint64_t *statsptr[STATNODES];$/;"	v	file:
+statsptr	symlinkcache.c	/^static uint64_t *statsptr[STATNODES];$/;"	v	file:
+status	mastercomm.c	/^	uint8_t status;		\/\/ receive status$/;"	m	struct:_threc	file:
+status	writedata.c	/^	int status;$/;"	m	struct:inodedata_s	file:
+strncpy_escape_commas	main.c	/^static unsigned int strncpy_escape_commas(char *dstbuff, unsigned int dstsize,char *src) {$/;"	f	file:
+strncpy_remove_commas	main.c	/^static unsigned int strncpy_remove_commas(char *dstbuff, unsigned int dstsize,char *src) {$/;"	f	file:
+subfolder	main.c	/^	char *subfolder;$/;"	m	struct:mfsopts	file:
+subfolder	mastercomm.c	/^	char *subfolder;$/;"	m	struct:connect_args_t	file:
+sugid_clear_mode	mfs_fuse.c	/^static int sugid_clear_mode = 0;$/;"	v	file:
+sugidclearmode	main.c	/^	int sugidclearmode;$/;"	m	struct:mfsopts	file:
+sugidclearmodestr	main.c	/^	char *sugidclearmodestr;$/;"	m	struct:mfsopts	file:
+symlink_cache_init	symlinkcache.c	/^void symlink_cache_init(void) {$/;"	f
+symlink_cache_insert	symlinkcache.c	/^void symlink_cache_insert(uint32_t inode,const uint8_t *path) {$/;"	f
+symlink_cache_search	symlinkcache.c	/^int symlink_cache_search(uint32_t inode,const uint8_t **path) {$/;"	f
+symlink_cache_stats_dec	symlinkcache.c	/^static inline void symlink_cache_stats_dec(uint8_t id) {$/;"	f	file:
+symlink_cache_stats_inc	symlinkcache.c	/^static inline void symlink_cache_stats_inc(uint8_t id) {$/;"	f	file:
+symlink_cache_statsptr_init	symlinkcache.c	/^static inline void symlink_cache_statsptr_init(void) {$/;"	f	file:
+symlink_cache_term	symlinkcache.c	/^void symlink_cache_term(void) {$/;"	f
+symlinkhash	symlinkcache.c	/^static hashbucket *symlinkhash = NULL;$/;"	v	file:
+tcpread	mfstools.c	40;"	d	file:
+tcpwrite	mfstools.c	41;"	d	file:
+terminate	masterproxy.c	/^static uint8_t terminate;$/;"	v	file:
+thid	mastercomm.c	/^	pthread_t thid;$/;"	m	struct:_threc	file:
+threc	mastercomm.c	/^} threc;$/;"	t	typeref:struct:_threc	file:
+threchead	mastercomm.c	/^static threc *threchead=NULL;$/;"	v	file:
+time	chunkloccache.c	/^	uint32_t time[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+time	symlinkcache.c	/^	uint32_t time[HASH_BUCKET_SIZE];$/;"	m	struct:_hashbucket	file:
+timelock	oplog.c	/^static pthread_mutex_t timelock = PTHREAD_MUTEX_INITIALIZER;$/;"	v	file:
+to	writedata.c	/^	uint32_t to;		\/\/ first not used byte in data (modified only when writeid==0)$/;"	m	struct:cblock_s	file:
+trycnt	writedata.c	/^	uint32_t trycnt;$/;"	m	struct:inodedata_s	file:
+uid	mfs_fuse.c	/^	uid_t uid;$/;"	m	struct:_dirbuf	file:
+usage	main.c	/^static void usage(const char *progname) {$/;"	f	file:
+usage	mfstools.c	/^void usage(int f) {$/;"	f
+usedblocks	writedata.c	/^static uint32_t usedblocks;$/;"	v	file:
+usedircache	mfs_fuse.c	/^static int usedircache = 1;$/;"	v	file:
+valid	readdata.c	/^	uint8_t valid;			\/\/ glock$/;"	m	struct:_readrec	file:
+version	readdata.c	/^	uint32_t version;		\/\/ this->locked$/;"	m	struct:_readrec	file:
+waiting	mastercomm.c	/^	uint8_t waiting;	\/\/ thread is waiting for answer$/;"	m	struct:_threc	file:
+waiting	oplog.c	/^static uint8_t waiting=0;$/;"	v	file:
+waiting	readdata.c	/^	uint16_t waiting;		\/\/ glock$/;"	m	struct:_readrec	file:
+waitingworker	writedata.c	/^	uint8_t waitingworker;$/;"	m	struct:inodedata_s	file:
+wasread	mfs_fuse.c	/^	int wasread;$/;"	m	struct:_dirbuf	file:
+wasread	mfs_meta_fuse.c	/^	int wasread;$/;"	m	struct:_dirbuf	file:
+write_block	writedata.c	/^int write_block(inodedata *id,uint32_t chindx,uint16_t pos,uint32_t from,uint32_t to,const uint8_t *data) {$/;"	f
+write_cb_acquire	writedata.c	/^cblock* write_cb_acquire(inodedata *id) {$/;"	f
+write_cb_expand	writedata.c	/^int write_cb_expand(cblock *cb,uint32_t from,uint32_t to,const uint8_t *data) {$/;"	f
+write_cb_release	writedata.c	/^void write_cb_release (inodedata *id,cblock *cb) {$/;"	f
+write_data	writedata.c	/^int write_data(void *vid,uint64_t offset,uint32_t size,const uint8_t *data) {$/;"	f
+write_data_end	writedata.c	/^int write_data_end(void *vid) {$/;"	f
+write_data_flush	writedata.c	/^int write_data_flush(void *vid) {$/;"	f
+write_data_flush_inode	writedata.c	/^int write_data_flush_inode(uint32_t inode) {$/;"	f
+write_data_getmaxfleng	writedata.c	/^uint64_t write_data_getmaxfleng(uint32_t inode) {$/;"	f
+write_data_init	writedata.c	/^void write_data_init (uint32_t cachesize,uint32_t retries) {$/;"	f
+write_data_new	writedata.c	/^void* write_data_new(uint32_t inode) {$/;"	f
+write_data_term	writedata.c	/^void write_data_term(void) {$/;"	f
+write_delayed_enqueue	writedata.c	/^void write_delayed_enqueue(inodedata *id,uint32_t cnt) {$/;"	f
+write_dqueue_worker	writedata.c	/^void* write_dqueue_worker(void *arg) {$/;"	f
+write_enqueue	writedata.c	/^void write_enqueue(inodedata *id) {$/;"	f
+write_find_inodedata	writedata.c	/^inodedata* write_find_inodedata(uint32_t inode) {$/;"	f
+write_free_inodedata	writedata.c	/^void write_free_inodedata(inodedata *fid) {$/;"	f
+write_get_inodedata	writedata.c	/^inodedata* write_get_inodedata(uint32_t inode) {$/;"	f
+write_info_worker	writedata.c	/^void* write_info_worker(void *arg) {$/;"	f
+write_job_end	writedata.c	/^void write_job_end(inodedata *id,int status,uint32_t delay) {$/;"	f
+write_worker	writedata.c	/^void* write_worker(void *arg) {$/;"	f
+write_worker_th	writedata.c	/^static pthread_t write_worker_th[WORKERS];$/;"	v	file:
+writecachesize	main.c	/^	unsigned writecachesize;$/;"	m	struct:mfsopts	file:
+writecond	writedata.c	/^	pthread_cond_t writecond;	\/\/ wait for flushwaiting==0 (write)$/;"	m	struct:inodedata_s	file:
+writeid	writedata.c	/^	uint32_t writeid;	\/\/ 0 = not sent, >0 = block was sent (modified and accessed only when wchunk is locked)$/;"	m	struct:cblock_s	file:
+writeopcnt	csdb.c	/^	uint32_t writeopcnt;$/;"	m	struct:_csdbentry	file:
+writepos	oplog.c	/^static uint64_t writepos=0;$/;"	v	file:
+writewaiting	writedata.c	/^	uint16_t writewaiting;$/;"	m	struct:inodedata_s	file:
